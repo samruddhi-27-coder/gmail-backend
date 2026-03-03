@@ -24,6 +24,84 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Beautiful 👏 you’re moving perfectly.
+
+Since your repo is already live, here is the correct next step in professional order:
+
+⸻
+
+
+
+⸻
+
+📧 Gmail Clone Backend
+
+Built using NestJS + MongoDB
+
+⸻
+
+🚀 Tech Stack
+	•	NestJS
+	•	MongoDB (Mongoose)
+	•	JWT Authentication
+	•	ConfigModule (.env support)
+	•	Swagger API Docs
+
+⸻
+
+📦 Features Implemented
+	•	MongoDB Integration
+	•	User Schema
+	•	Mail Schema
+	•	Data Persistence
+	•	Unread/Read Tracking
+	•	Inbox / Sent / Trash Support
+	•	Environment-based Configuration
+
+⸻
+
+🛠️ Setup Instructions
+	1.	Clone the repository:
+
+git clone https://github.com/samruddhi-27-coder/gmail-backend.git
+
+	2.	Install dependencies:
+
+npm install
+
+	3.	Create .env file:
+
+MONGO_URI=
+JWT_SECRET=
+JWT_EXPIRES_IN=1d
+PORT=3000
+
+	4.	Run server:
+
+npm run start:dev
+
+
+⸻
+
+📘 API Documentation
+
+Available at:
+
+http://localhost:3000/api-docs
+
+
+⸻
+
+👩‍💻 Contributor
+
+Samruddhi Bhaskar Mohite
+
+⸻
+
+
+⸻
+
+
 
 ## Project setup
 
